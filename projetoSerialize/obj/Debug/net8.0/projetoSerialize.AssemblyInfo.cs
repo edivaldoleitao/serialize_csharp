@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("projetoSerialize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c2453ce21cdb03ba24515d6057d37eeb1fb7098")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4004cf9ab38308cf74adb90da680be07db3af131")]
 [assembly: System.Reflection.AssemblyProductAttribute("projetoSerialize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("projetoSerialize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

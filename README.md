@@ -1,0 +1,1 @@
+- [validação de json](https://codebeautify.org/jsonviewer)
