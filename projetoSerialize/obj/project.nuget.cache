@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1H/jNA0VwU+0DJgpOiiSJWybh4ZHqAr7ogFOB4IJasf5MbhRoOB7+sPoJLMPBbYz+GCYhHPqis6KMR5uSvfmDA==",
+  "dgSpecHash": "h8zwBdSXTYl8ncocOGwUUvIf8qytdnql5xNH3uaDyAr68vAbMxIis2WuFbh75aFQZNPgJUtcVLsyYU9h1JmqVg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Win10\\Documents\\serialize cc#\\projetoSerialize\\projetoSerialize.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Win10\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
