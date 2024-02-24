@@ -3,12 +3,14 @@
     "Id": 1,
     "Produto": "xampu",
     "Preco": 12.00,
-    "DataVenda": "2024-02-15T00:29:27.5895418-03:00"
+    "DataVenda": "2024-02-15T00:29:27.5895418-03:00",
+    "Desconto": null
   },
   {
     "Id": 2,
     "Produto": "xampu 2",
     "Preco": 11.00,
-    "DataVenda": "2024-02-15T00:29:27.5895418-03:00"
+    "DataVenda": "2024-02-15T00:29:27.5895418-03:00",
+    "Desconto": 10
   }
 ]

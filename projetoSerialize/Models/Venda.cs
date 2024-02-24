@@ -23,5 +23,8 @@ namespace projetoSerialize.Models
         public string Produto { get; set; }
         public decimal Preco { get; set; }
         public DateTime DataVenda { get; set; }
+        
+        //marca que o valor pode ser nulo e aceita valores nulos
+        public decimal? Desconto { get; set; }
     }
 }
